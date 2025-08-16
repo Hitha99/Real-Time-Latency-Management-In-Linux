@@ -165,9 +165,3 @@ Total events seen: 720 | Latencies measured: 500
 * Filter by specific event types (`EV_KEY`, `EV_ABS`).
 * Support multiple devices concurrently.
 * Integrate with a simple **UI** to visualize responsiveness impact.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — free to use and modify.
