@@ -152,12 +152,6 @@ Total events seen: 720 | Latencies measured: 500
 
 ---
 
-## 📌 Resume-Ready Description
-
-> *“Developed a Linux input latency profiler in C++ by analyzing evdev events from `/dev/input`. Measured kernel-to-user event delays and computed latency distributions (avg, p50, p95, p99). Demonstrated system-level performance analysis for optimizing touch-to-pixel responsiveness.”*
-
----
-
 ## 🔮 Possible Extensions
 
 * Export latency results to **CSV/JSON** for visualization.
